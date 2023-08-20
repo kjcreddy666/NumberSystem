@@ -45,7 +45,3 @@ The program provides the following conversion options:
 ## Contributing
 
 Contributions to this program are welcome. Feel free to open an issue or pull request if you find any bugs, have suggestions for improvements, or want to add new features.
-
-## License
-
-This program is open-source and available under the [MIT License](LICENSE).
